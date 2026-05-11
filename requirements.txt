@@ -1,0 +1,30 @@
+# Azure Services
+azure-storage-blob==12.19.0
+
+# Document Processing
+pypdf==4.0.1
+markdown-it-py==3.0.0
+python-docx==0.8.11
+
+# NLP & Embeddings
+sentence-transformers==2.2.2
+numpy==1.24.3
+scipy==1.11.4
+
+# Search & Ranking
+rank-bm25==0.2.2
+
+# Data Management
+pandas==2.1.3
+
+# Utilities
+python-dotenv==1.0.0
+pydantic==2.5.0
+tqdm==4.66.1
+
+# Jupyter
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# LLM Integration (for semantic captions)
+openai>=1.0.0
